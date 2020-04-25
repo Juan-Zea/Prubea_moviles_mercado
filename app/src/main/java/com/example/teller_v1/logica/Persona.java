@@ -4,6 +4,7 @@ public class Persona {
 
     String nombre;
     String cedula;
+    Strinf estado:
 
     public Persona(String nombre, String cedula) {
         this.nombre = nombre;
